@@ -1,16 +1,26 @@
 'use client'
 
 import { Info, Loader2, Play, RotateCcw } from 'lucide-react'
+import dynamic from 'next/dynamic'
 import { useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { EJEMPLOS } from '@/data/ejemplos'
 import { useSimulacion } from '@/hooks/use-simulacion'
 import { agregar } from '@/lib/agregados'
+import { simId } from '@/lib/hud'
 import { BarraProgreso } from './barra-progreso'
 import { Desglose } from './desglose'
-import { MapaRosario } from './mapa-rosario'
 import { PanelAjuste } from './panel-ajuste'
 import { GanadoresPerdedores, Quejas, Testimonios } from './panel-analisis'
+
+const MapaCiudad = dynamic(() => import('./mapa/mapa-ciudad'), {
+  ssr: false,
+  loading: () => (
+    <div className="absolute inset-0 flex items-center justify-center">
+      <span className="etiqueta-hud parpadeo">Inicializando cartografía…</span>
+    </div>
+  ),
+})
 
 const ACCIONES: Record<string, string> = {
   apoya: 'Apoya',
@@ -33,160 +43,193 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
   }
 
   return (
-    <div className="flex flex-col gap-10">
-      <section aria-labelledby="medida-titulo" className="flex flex-col gap-4">
-        <label htmlFor="medida" id="medida-titulo" className="text-sm font-medium">
-          Medida a evaluar
-        </label>
-        <textarea
-          id="medida"
-          value={medida}
-          onChange={(e) => setMedida(e.target.value)}
-          onKeyDown={(e) => {
-            if (e.key === 'Enter' && (e.metaKey || e.ctrlKey) && !e.nativeEvent.isComposing && e.keyCode !== 229) {
-              e.preventDefault()
-              lanzar(medida)
-            }
-          }}
-          maxLength={600}
-          rows={3}
-          placeholder="Ej: Subimos el boleto de colectivo un 30% a partir del mes que viene."
-          className="w-full resize-none rounded-md border bg-card px-4 py-3 text-base leading-relaxed placeholder:text-muted-foreground focus-visible:outline-2 focus-visible:outline-ring"
-        />
-        <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs text-muted-foreground">Ejemplos:</span>
-            {EJEMPLOS.map((e) => (
-              <Button
-                key={e.id}
-                variant="outline"
-                size="sm"
-                disabled={ocupado}
-                onClick={() => {
-                  setMedida(e.medida)
-                  lanzar(e.medida)
-                }}
-              >
-                {e.titulo}
-              </Button>
-            ))}
-          </div>
-          <div className="flex items-center gap-2">
-            {principal.fase !== 'inicio' && (
-              <Button variant="ghost" size="sm" onClick={reiniciar}>
-                <RotateCcw aria-hidden="true" />
-                Reiniciar
-              </Button>
-            )}
-            <Button onClick={() => lanzar(medida)} disabled={ocupado || medida.trim().length < 8}>
-              {ocupado ? <Loader2 className="animate-spin" aria-hidden="true" /> : <Play aria-hidden="true" />}
-              Simular
-            </Button>
-          </div>
-        </div>
-        {aviso && (
-          <p role="alert" className="flex items-start gap-2 rounded-md border bg-muted px-3 py-2 text-sm">
-            <Info className="mt-0.5 size-4 shrink-0 text-primary" aria-hidden="true" />
-            {aviso}
-          </p>
-        )}
-      </section>
-
-      {principal.fase !== 'inicio' && (
-        <section aria-labelledby="resultado-titulo" className="flex flex-col gap-8">
-          <div className="flex flex-col gap-1">
-            <div className="flex flex-wrap items-center gap-2">
-              <h2 id="resultado-titulo" className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
-                Resultado de la simulación
-              </h2>
-              {principal.origen === 'precargado' && (
-                <span className="rounded-sm bg-muted px-2 py-0.5 text-xs text-muted-foreground">
-                  {fuenteCaso === 'heuristica' ? 'Caso precargado (modelo heurístico)' : 'Caso precargado'}
-                </span>
-              )}
+    <div className="flex flex-col">
+      <div className="grid md:h-[calc(100dvh-3.5rem)] md:grid-cols-[340px_minmax(0,1fr)] lg:grid-cols-[400px_minmax(0,1fr)]">
+        <aside className="flex flex-col gap-4 overflow-y-auto border-b p-4 md:border-r md:border-b-0 md:p-5">
+          <section aria-labelledby="medida-titulo" className="glass flex flex-col gap-3 rounded-lg p-4">
+            <div className="flex items-center justify-between">
+              <label htmlFor="medida" id="medida-titulo" className="etiqueta-hud">
+                Medida a evaluar
+              </label>
+              <span className="font-mono text-[11px] text-primary/80">
+                {principal.medida ? simId(principal.medida) : 'SIM-····'}
+              </span>
             </div>
-            <p className="text-pretty text-lg leading-relaxed">{principal.medida}</p>
-          </div>
+            <textarea
+              id="medida"
+              value={medida}
+              onChange={(e) => setMedida(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' && (e.metaKey || e.ctrlKey) && !e.nativeEvent.isComposing && e.keyCode !== 229) {
+                  e.preventDefault()
+                  lanzar(medida)
+                }
+              }}
+              maxLength={600}
+              rows={4}
+              placeholder="Ej: Subimos el boleto de colectivo un 30% a partir del mes que viene."
+              className="w-full resize-none rounded-md border bg-background/60 px-3 py-2.5 text-sm leading-relaxed placeholder:text-muted-foreground focus-visible:border-primary/60 focus-visible:outline-none"
+            />
+            <div className="flex items-center justify-between gap-2">
+              {principal.fase !== 'inicio' ? (
+                <Button variant="ghost" size="sm" onClick={reiniciar}>
+                  <RotateCcw aria-hidden="true" />
+                  Reiniciar
+                </Button>
+              ) : (
+                <span className="font-mono text-[11px] text-muted-foreground">{'Ctrl + Enter'}</span>
+              )}
+              <Button onClick={() => lanzar(medida)} disabled={ocupado || medida.trim().length < 8} className="brillo-cian">
+                {ocupado ? <Loader2 className="animate-spin" aria-hidden="true" /> : <Play aria-hidden="true" />}
+                Simular
+              </Button>
+            </div>
+          </section>
 
-          {principal.fase === 'simulando' && (
-            <BarraProgreso respondieron={principal.respuestas.length} fallidos={principal.fallidos} />
+          <section aria-labelledby="ejemplos-titulo" className="flex flex-col gap-2">
+            <h2 id="ejemplos-titulo" className="etiqueta-hud">
+              Escenarios precargados
+            </h2>
+            <ul className="flex flex-col gap-1.5">
+              {EJEMPLOS.map((e) => (
+                <li key={e.id}>
+                  <button
+                    type="button"
+                    disabled={ocupado}
+                    onClick={() => {
+                      setMedida(e.medida)
+                      lanzar(e.medida)
+                    }}
+                    className="group flex w-full items-center justify-between gap-3 rounded-md border bg-card/40 px-3 py-2 text-left text-sm transition-colors hover:border-primary/40 hover:bg-primary/5 disabled:opacity-50"
+                  >
+                    <span>{e.titulo}</span>
+                    <span className="font-mono text-[11px] text-muted-foreground group-hover:text-primary">
+                      {simId(e.medida)}
+                    </span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </section>
+
+          {aviso && (
+            <p role="alert" className="flex items-start gap-2 rounded-md border border-neutro/30 bg-neutro/5 px-3 py-2 text-sm">
+              <Info className="mt-0.5 size-4 shrink-0 text-neutro" aria-hidden="true" />
+              {aviso}
+            </p>
           )}
 
-          <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)]">
-            <div className="flex flex-col gap-6 rounded-lg border bg-card p-5 md:p-6">
-              <div className="flex flex-col gap-1">
-                <span className="text-sm text-muted-foreground">Aprobación general</span>
-                <span className="font-mono text-7xl font-medium tracking-tight md:text-8xl">
-                  {ag ? `${ag.aprobacion.toFixed(0)}%` : '—'}
-                </span>
-                <span className="text-sm text-muted-foreground">
-                  {ag
-                    ? `${ag.respondieron} ciudadanos sintéticos, representando ~${Math.round(ag.habitantes / 1000).toLocaleString('es-AR')} mil habitantes`
-                    : 'Esperando respuestas…'}
-                </span>
+          {principal.fase !== 'inicio' && (
+            <section aria-labelledby="aprobacion-titulo" className="glass flex flex-col gap-4 rounded-lg p-4">
+              <div className="flex items-center justify-between gap-2">
+                <h2 id="aprobacion-titulo" className="etiqueta-hud">
+                  Aprobación general
+                </h2>
+                {principal.origen === 'precargado' && (
+                  <span className="font-mono text-[10px] uppercase tracking-[0.14em] text-neutro">
+                    {fuenteCaso === 'heuristica' ? 'Precargado · heurístico' : 'Precargado'}
+                  </span>
+                )}
               </div>
+              <span className="font-mono text-6xl font-medium tracking-tight tabular-nums text-primary">
+                {ag ? `${ag.aprobacion.toFixed(0)}%` : '—'}
+              </span>
               {ag && (
                 <>
-                  <div className="flex h-3 overflow-hidden rounded-sm" aria-hidden="true">
+                  <div className="flex h-1.5 overflow-hidden rounded-full" aria-hidden="true">
                     <div className="bg-favor transition-[width] duration-500" style={{ width: `${ag.aprobacion}%` }} />
-                    <div className="bg-muted-foreground/40 transition-[width] duration-500" style={{ width: `${ag.indiferencia}%` }} />
+                    <div className="bg-neutro transition-[width] duration-500" style={{ width: `${ag.indiferencia}%` }} />
                     <div className="bg-contra transition-[width] duration-500" style={{ width: `${ag.rechazo}%` }} />
                   </div>
-                  <dl className="grid grid-cols-3 gap-2 text-sm">
-                    <div>
+                  <dl className="grid grid-cols-3 gap-2 text-xs">
+                    <div className="flex flex-col gap-0.5">
                       <dt className="text-muted-foreground">A favor</dt>
-                      <dd className="font-mono text-favor">{`${ag.aprobacion.toFixed(0)}%`}</dd>
+                      <dd className="font-mono text-sm text-favor">{`${ag.aprobacion.toFixed(0)}%`}</dd>
                     </div>
-                    <div>
-                      <dt className="text-muted-foreground">Indiferentes</dt>
-                      <dd className="font-mono">{`${ag.indiferencia.toFixed(0)}%`}</dd>
+                    <div className="flex flex-col gap-0.5">
+                      <dt className="text-muted-foreground">Neutrales</dt>
+                      <dd className="font-mono text-sm text-neutro">{`${ag.indiferencia.toFixed(0)}%`}</dd>
                     </div>
-                    <div>
+                    <div className="flex flex-col gap-0.5">
                       <dt className="text-muted-foreground">En contra</dt>
-                      <dd className="font-mono text-contra">{`${ag.rechazo.toFixed(0)}%`}</dd>
+                      <dd className="font-mono text-sm text-contra">{`${ag.rechazo.toFixed(0)}%`}</dd>
                     </div>
                   </dl>
-                  <div className="flex flex-col gap-2 border-t pt-4">
-                    <span className="text-xs text-muted-foreground">Qué harían</span>
-                    <ul className="flex flex-wrap gap-2">
-                      {Object.entries(ACCIONES).map(([k, etiqueta]) => (
-                        <li key={k} className="rounded-sm bg-muted px-2 py-1 text-xs">
-                          {`${etiqueta} `}
-                          <span className="font-mono text-muted-foreground">{`${(ag.acciones[k] ?? 0).toFixed(0)}%`}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
+                  <p className="font-mono text-[11px] text-muted-foreground">
+                    {`${ag.respondieron} ciudadanos · ~${Math.round(ag.habitantes / 1000).toLocaleString('es-AR')} mil habitantes`}
+                  </p>
                 </>
               )}
-              {analisis && <p className="border-t pt-4 text-pretty leading-relaxed">{analisis.resumen}</p>}
               {principal.fase === 'analizando' && (
-                <p className="flex items-center gap-2 border-t pt-4 text-sm text-muted-foreground" role="status">
+                <p className="flex items-center gap-2 border-t pt-3 text-sm text-muted-foreground" role="status">
                   <Loader2 className="size-4 animate-spin" aria-hidden="true" />
                   Analizando resultados…
                 </p>
               )}
+            </section>
+          )}
+        </aside>
+
+        <section aria-label="Mapa de la simulación" className="relative h-[70vh] overflow-hidden md:h-full">
+          <MapaCiudad
+            respuestas={principal.respuestas}
+            porDistrito={ag?.porDistrito ?? null}
+            orbitar={principal.fase === 'listo'}
+          />
+          <div className="pointer-events-none absolute top-4 left-4 flex flex-col gap-1">
+            <span className="etiqueta-hud text-primary/80">
+              {principal.medida ? `${simId(principal.medida)} · ${principal.fase.toUpperCase()}` : 'STANDBY'}
+            </span>
+            <span className="etiqueta-hud">{'Rosario · 6 distritos · 300 agentes'}</span>
+          </div>
+          {principal.fase === 'simulando' && (
+            <div className="glass absolute top-4 right-4 left-4 rounded-lg p-3 md:left-auto md:w-80">
+              <BarraProgreso respondieron={principal.respuestas.length} fallidos={principal.fallidos} />
             </div>
-            <div className="rounded-lg border bg-card p-5 md:p-6">
-              <MapaRosario datos={ag?.porDistrito ?? null} />
+          )}
+          <ul className="glass pointer-events-none absolute bottom-8 left-4 flex flex-col gap-1.5 rounded-md px-3 py-2.5 font-mono text-[11px]">
+            <li className="flex items-center gap-2">
+              <span className="size-2 rounded-full bg-favor" aria-hidden="true" />A favor
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="size-2 rounded-full bg-neutro" aria-hidden="true" />
+              Neutral
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="size-2 rounded-full bg-contra" aria-hidden="true" />
+              En contra
+            </li>
+            <li className="text-muted-foreground">{'Altura = intensidad'}</li>
+          </ul>
+        </section>
+      </div>
+
+      {ag && principal.fase === 'listo' && (
+        <section aria-labelledby="resultado-titulo" className="mx-auto flex w-full max-w-[1600px] flex-col gap-6 px-4 py-10 md:px-6">
+          <div className="flex flex-col gap-2">
+            <h2 id="resultado-titulo" className="etiqueta-hud">
+              Resultado de la simulación
+            </h2>
+            <p className="text-pretty text-lg leading-relaxed">{principal.medida}</p>
+            {analisis && <p className="text-pretty leading-relaxed text-muted-foreground">{analisis.resumen}</p>}
+            <ul className="flex flex-wrap gap-2">
+              {Object.entries(ACCIONES).map(([k, etiqueta]) => (
+                <li key={k} className="rounded-sm border bg-card/40 px-2 py-1 text-xs">
+                  {`${etiqueta} `}
+                  <span className="font-mono text-muted-foreground">{`${(ag.acciones[k] ?? 0).toFixed(0)}%`}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          {analisis && <GanadoresPerdedores analisis={analisis} />}
+          <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
+            {analisis && <Quejas quejas={analisis.quejas} />}
+            <div className={analisis ? '' : 'lg:col-span-2'}>
+              <Desglose ingreso={ag.porIngreso} edad={ag.porEdad} transporte={ag.porTransporte} />
             </div>
           </div>
-
-          {ag && principal.fase === 'listo' && (
-            <>
-              {analisis && <GanadoresPerdedores analisis={analisis} />}
-              <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
-                {analisis && <Quejas quejas={analisis.quejas} />}
-                <div className={analisis ? '' : 'lg:col-span-2'}>
-                  <Desglose ingreso={ag.porIngreso} edad={ag.porEdad} transporte={ag.porTransporte} />
-                </div>
-              </div>
-              {analisis && <Testimonios ids={analisis.testimonioIds} respuestas={principal.respuestas} />}
-              {analisis && (
-                <PanelAjuste propuesta={analisis.propuesta} original={ag} ajuste={ajuste} onResimular={resimular} />
-              )}
-            </>
-          )}
+          {analisis && <Testimonios ids={analisis.testimonioIds} respuestas={principal.respuestas} />}
+          {analisis && <PanelAjuste propuesta={analisis.propuesta} original={ag} ajuste={ajuste} onResimular={resimular} />}
         </section>
       )}
     </div>

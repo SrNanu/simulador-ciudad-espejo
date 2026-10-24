@@ -5,10 +5,11 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --font-sans: 'IBM Plex Sans', 'IBM Plex Sans Fallback', ui-sans-serif, system-ui;
-  --font-mono: 'IBM Plex Mono', 'IBM Plex Mono Fallback', ui-monospace;
+  --font-sans: 'Geist', 'Geist Fallback', ui-sans-serif, system-ui;
+  --font-mono: 'Geist Mono', 'Geist Mono Fallback', ui-monospace;
   --color-favor: var(--favor);
   --color-contra: var(--contra);
+  --color-neutro: var(--neutro);
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);
@@ -35,27 +36,28 @@
 
 :root {
   color-scheme: dark;
-  --background: oklch(0.19 0.018 250);
-  --foreground: oklch(0.95 0.008 240);
-  --card: oklch(0.225 0.02 250);
-  --card-foreground: oklch(0.95 0.008 240);
-  --popover: oklch(0.25 0.02 250);
-  --popover-foreground: oklch(0.95 0.008 240);
-  --primary: oklch(0.78 0.11 232);
-  --primary-foreground: oklch(0.19 0.018 250);
-  --secondary: oklch(0.27 0.02 250);
-  --secondary-foreground: oklch(0.95 0.008 240);
-  --muted: oklch(0.27 0.02 250);
-  --muted-foreground: oklch(0.7 0.015 245);
-  --accent: oklch(0.3 0.03 245);
-  --accent-foreground: oklch(0.95 0.008 240);
-  --destructive: oklch(0.65 0.19 25);
-  --border: oklch(0.32 0.02 250);
-  --input: oklch(0.32 0.02 250);
-  --ring: oklch(0.78 0.11 232);
-  --favor: oklch(0.72 0.15 150);
-  --contra: oklch(0.64 0.19 25);
-  --radius: 0.375rem;
+  --background: oklch(0.145 0.022 258);
+  --foreground: oklch(0.94 0.012 230);
+  --card: oklch(0.19 0.03 255 / 0.62);
+  --card-foreground: oklch(0.94 0.012 230);
+  --popover: oklch(0.19 0.03 255 / 0.92);
+  --popover-foreground: oklch(0.94 0.012 230);
+  --primary: oklch(0.84 0.14 205);
+  --primary-foreground: oklch(0.145 0.022 258);
+  --secondary: oklch(0.23 0.03 255);
+  --secondary-foreground: oklch(0.94 0.012 230);
+  --muted: oklch(0.23 0.03 255 / 0.7);
+  --muted-foreground: oklch(0.68 0.03 240);
+  --accent: oklch(0.26 0.04 240);
+  --accent-foreground: oklch(0.94 0.012 230);
+  --destructive: oklch(0.66 0.24 0);
+  --border: oklch(0.84 0.14 205 / 0.16);
+  --input: oklch(0.84 0.14 205 / 0.22);
+  --ring: oklch(0.84 0.14 205);
+  --favor: oklch(0.84 0.14 205);
+  --contra: oklch(0.66 0.24 0);
+  --neutro: oklch(0.82 0.15 78);
+  --radius: 0.5rem;
 }
 
 @layer base {
@@ -65,4 +67,78 @@
   body {
     @apply bg-background text-foreground font-sans;
   }
+}
+
+@layer components {
+  .fondo-grilla {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image:
+      linear-gradient(to right, oklch(0.84 0.14 205 / 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, oklch(0.84 0.14 205 / 0.05) 1px, transparent 1px);
+    background-size: 48px 48px;
+    mask-image: radial-gradient(ellipse at 50% 30%, black 20%, transparent 75%);
+    animation: deriva-grilla 40s linear infinite;
+  }
+
+  .glass {
+    background: var(--card);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    border: 1px solid var(--border);
+    box-shadow:
+      inset 0 1px 0 oklch(1 0 0 / 0.04),
+      0 0 0 1px oklch(0 0 0 / 0.2),
+      0 12px 40px -12px oklch(0 0 0 / 0.6);
+  }
+
+  .brillo-cian {
+    box-shadow: 0 0 24px -4px oklch(0.84 0.14 205 / 0.45);
+  }
+
+  .parpadeo {
+    animation: parpadeo 1.4s ease-in-out infinite;
+  }
+
+  .etiqueta-hud {
+    @apply font-mono text-[11px] uppercase tracking-[0.14em] text-muted-foreground;
+  }
+}
+
+@keyframes deriva-grilla {
+  to {
+    background-position: 48px 48px;
+  }
+}
+
+@keyframes parpadeo {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.25;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fondo-grilla,
+  .parpadeo {
+    animation: none;
+  }
+}
+
+.maplibregl-ctrl-attrib {
+  background: oklch(0.145 0.022 258 / 0.7) !important;
+  color: var(--muted-foreground) !important;
+  font-family: var(--font-mono);
+  font-size: 10px;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--muted-foreground) !important;
+}
+.maplibregl-ctrl-attrib-button {
+  filter: invert(1);
 }
