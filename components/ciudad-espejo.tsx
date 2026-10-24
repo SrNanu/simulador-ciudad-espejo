@@ -1,8 +1,10 @@
 'use client'
 
-import { Info, Loader2, Play, RotateCcw } from 'lucide-react'
+import { Clapperboard, Info, Loader2, Play, RotateCcw } from 'lucide-react'
 import dynamic from 'next/dynamic'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import { POBLACION_POR_ID } from '@/lib/agregados'
+import { FeedCitas } from './feed-citas'
 import { Button } from '@/components/ui/button'
 import { EJEMPLOS } from '@/data/ejemplos'
 import { useSimulacion } from '@/hooks/use-simulacion'
@@ -36,10 +38,54 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
   const ocupado = principal.fase === 'simulando' || principal.fase === 'analizando'
   const ag = principal.respuestas.length ? agregar(principal.respuestas) : null
 
+  const [demo, setDemo] = useState(false)
+  const resultadoRef = useRef<HTMLElement>(null)
+  const ajusteRef = useRef<HTMLDivElement>(null)
+
   const lanzar = (texto: string) => {
     const t = texto.trim()
     if (t.length < 8 || ocupado) return
+    setDemo(false)
     simular(t)
+  }
+
+  const iniciarDemo = () => {
+    const boleto = EJEMPLOS.find((e) => e.id === 'boleto')
+    if (!boleto) return
+    setMedida(boleto.medida)
+    setDemo(true)
+    simular(boleto.medida, true)
+  }
+
+  const iniciarDemoRef = useRef(iniciarDemo)
+  iniciarDemoRef.current = iniciarDemo
+  useEffect(() => {
+    if (new URLSearchParams(window.location.search).has('demo')) {
+      const t = window.setTimeout(() => iniciarDemoRef.current(), 2500)
+      return () => window.clearTimeout(t)
+    }
+  }, [])
+
+  useEffect(() => {
+    if (!demo || principal.fase !== 'listo' || !analisis || ajuste) return
+    const t1 = window.setTimeout(() => resultadoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 2500)
+    const t2 = window.setTimeout(() => {
+      ajusteRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      resimular(analisis.propuesta.medidaAjustada, true)
+    }, 9000)
+    return () => {
+      window.clearTimeout(t1)
+      window.clearTimeout(t2)
+    }
+  }, [demo, principal.fase, analisis, ajuste, resimular])
+
+  useEffect(() => {
+    if (demo && ajuste?.fase === 'listo') setDemo(false)
+  }, [demo, ajuste?.fase])
+
+  const alReiniciar = () => {
+    setDemo(false)
+    reiniciar()
   }
 
   return (
@@ -72,7 +118,7 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
             />
             <div className="flex items-center justify-between gap-2">
               {principal.fase !== 'inicio' ? (
-                <Button variant="ghost" size="sm" onClick={reiniciar}>
+                <Button variant="ghost" size="sm" onClick={alReiniciar}>
                   <RotateCcw aria-hidden="true" />
                   Reiniciar
                 </Button>
@@ -85,6 +131,14 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
               </Button>
             </div>
           </section>
+
+          <Button variant="outline" onClick={iniciarDemo} disabled={ocupado || demo} className="justify-between">
+            <span className="flex items-center gap-2">
+              <Clapperboard aria-hidden="true" />
+              {demo ? 'Demo en curso…' : 'Modo demo automático'}
+            </span>
+            <span className="font-mono text-[11px] text-muted-foreground">Boleto +30%</span>
+          </Button>
 
           <section aria-labelledby="ejemplos-titulo" className="flex flex-col gap-2">
             <h2 id="ejemplos-titulo" className="etiqueta-hud">
@@ -187,6 +241,11 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
               <BarraProgreso respondieron={principal.respuestas.length} fallidos={principal.fallidos} />
             </div>
           )}
+          {principal.respuestas.length > 0 && principal.fase !== 'listo' && (
+            <div className="pointer-events-none absolute right-4 bottom-8 left-4 hidden sm:block md:left-auto">
+              <FeedCitas respuestas={principal.respuestas} total={POBLACION_POR_ID.size} />
+            </div>
+          )}
           <ul className="glass pointer-events-none absolute bottom-8 left-4 flex flex-col gap-1.5 rounded-md px-3 py-2.5 font-mono text-[11px]">
             <li className="flex items-center gap-2">
               <span className="size-2 rounded-full bg-favor" aria-hidden="true" />A favor
@@ -205,7 +264,7 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
       </div>
 
       {ag && principal.fase === 'listo' && (
-        <section aria-labelledby="resultado-titulo" className="mx-auto flex w-full max-w-[1600px] flex-col gap-6 px-4 py-10 md:px-6">
+        <section ref={resultadoRef} aria-labelledby="resultado-titulo" className="mx-auto flex w-full max-w-[1600px] flex-col gap-6 px-4 py-10 md:px-6">
           <div className="flex flex-col gap-2">
             <h2 id="resultado-titulo" className="etiqueta-hud">
               Resultado de la simulación
@@ -229,7 +288,11 @@ export function CiudadEspejo({ iaDisponible }: { iaDisponible: boolean }) {
             </div>
           </div>
           {analisis && <Testimonios ids={analisis.testimonioIds} respuestas={principal.respuestas} />}
-          {analisis && <PanelAjuste propuesta={analisis.propuesta} original={ag} ajuste={ajuste} onResimular={resimular} />}
+          {analisis && (
+            <div ref={ajusteRef} className="scroll-mt-20">
+              <PanelAjuste propuesta={analisis.propuesta} original={ag} ajuste={ajuste} onResimular={(m) => resimular(m)} />
+            </div>
+          )}
         </section>
       )}
     </div>

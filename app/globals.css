@@ -83,6 +83,20 @@
     animation: deriva-grilla 40s linear infinite;
   }
 
+  .entrada-cita {
+    animation: entrada-cita 0.35s ease-out both;
+  }
+  @keyframes entrada-cita {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .entrada-cita {
+      animation: none;
+    }
+  }
   .glass {
     background: var(--card);
     backdrop-filter: blur(14px) saturate(140%);

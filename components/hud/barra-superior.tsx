@@ -14,7 +14,7 @@ export function BarraSuperior({ ia }: { ia: boolean }) {
   }, [])
 
   return (
-    <header className="glass sticky top-0 z-30 flex h-14 items-center justify-between gap-4 border-x-0 border-t-0 px-4 md:px-6">
+    <header className="sticky top-0 z-50 flex h-14 shrink-0 items-center justify-between gap-4 border-b bg-background px-4 md:px-6">
       <div className="flex items-center gap-3">
         <span
           className="brillo-cian flex size-8 items-center justify-center rounded-md border border-primary/50 font-mono text-xs font-medium text-primary"

@@ -104,13 +104,14 @@ export function useSimulacion(iaDisponible: boolean) {
       setCorrida: React.Dispatch<React.SetStateAction<Corrida>> | React.Dispatch<React.SetStateAction<Corrida | null>>,
       precargadas: Respuesta[] | null,
       signal: AbortSignal,
+      forzarPrecargado = false,
     ): Promise<{ respuestas: Respuesta[]; origen: Origen } | null> => {
       const set = setCorrida as React.Dispatch<React.SetStateAction<Corrida | null>>
       set({ ...corridaVacia(medida), fase: 'simulando' })
       const alLote = (r: Respuesta[]) => set((c) => (c ? { ...c, respuestas: [...c.respuestas, ...r] } : c))
       const alFallo = (n: number) => set((c) => (c ? { ...c, fallidos: c.fallidos + n } : c))
 
-      if (iaDisponible) {
+      if (iaDisponible && !(forzarPrecargado && precargadas)) {
         const vivo = await correrEnVivo(medida, alLote, alFallo, signal)
         if (signal.aborted) return null
         if (vivo.ok) return { respuestas: vivo.respuestas, origen: 'vivo' }
@@ -143,7 +144,7 @@ export function useSimulacion(iaDisponible: boolean) {
   )
 
   const simular = useCallback(
-    async (medida: string) => {
+    async (medida: string, forzarPrecargado = false) => {
       const signal = nuevoControl()
       setAviso(null)
       setAnalisis(null)
@@ -151,9 +152,10 @@ export function useSimulacion(iaDisponible: boolean) {
       setFuenteCaso(null)
       const ejemplo = casoParaMedida(medida)
       const caso = ejemplo ? await obtenerCaso(ejemplo.id) : null
+      if (signal.aborted) return
       casoActual.current = caso
 
-      const resultado = await ejecutar(medida, setPrincipal, caso?.respuestas ?? null, signal)
+      const resultado = await ejecutar(medida, setPrincipal, caso?.respuestas ?? null, signal, forzarPrecargado)
       if (!resultado) return
 
       if (resultado.origen === 'precargado' && caso) {
@@ -182,12 +184,12 @@ export function useSimulacion(iaDisponible: boolean) {
   )
 
   const resimular = useCallback(
-    async (medidaAjustada: string) => {
+    async (medidaAjustada: string, forzarPrecargado = false) => {
       const signal = nuevoControl()
       setAviso(null)
       const caso = casoActual.current
       const precargadas = caso?.ajuste && caso.ajuste.medida === medidaAjustada ? caso.ajuste.respuestas : null
-      const resultado = await ejecutar(medidaAjustada, setAjuste, precargadas, signal)
+      const resultado = await ejecutar(medidaAjustada, setAjuste, precargadas, signal, forzarPrecargado)
       if (resultado) setAjuste((c) => (c ? { ...c, fase: 'listo', origen: resultado.origen } : c))
     },
     [ejecutar],
