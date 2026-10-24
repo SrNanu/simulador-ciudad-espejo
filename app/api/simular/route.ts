@@ -22,14 +22,23 @@ export async function POST(req: Request) {
   const encoder = new TextEncoder()
   const stream = new ReadableStream({
     async start(controller) {
+      let cerrado = false
+      const emitir = (evento: unknown) => {
+        if (cerrado || req.signal.aborted) return
+        controller.enqueue(encoder.encode(JSON.stringify(evento) + '\n'))
+      }
       try {
-        await simular(parsed.data.medida, (evento) => controller.enqueue(encoder.encode(JSON.stringify(evento) + '\n')), req.signal)
+        await simular(parsed.data.medida, emitir, req.signal)
       } catch (error) {
         console.error('[api/simular]', error)
       } finally {
-        controller.close()
+        cerrado = true
+        try {
+          controller.close()
+        } catch {}
       }
     },
+    cancel() {},
   })
 
   return new Response(stream, {
