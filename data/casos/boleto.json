@@ -1,0 +1,4871 @@
+{
+ "id": "boleto",
+ "titulo": "Boleto de colectivo +30%",
+ "medida": "Subimos el boleto de colectivo urbano un 30% a partir del mes próximo para sostener el sistema de transporte.",
+ "fuente": "heuristica",
+ "respuestas": [
+  {
+   "id": "c001",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c002",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c003",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c004",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c005",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c006",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c007",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c008",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c009",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c010",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c011",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c012",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c013",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c014",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c015",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c016",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c017",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c018",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c019",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c020",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c021",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c022",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c023",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c024",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c025",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c026",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "Si se traduce en mejores frecuencias, lo banco. Si no, es más de lo mismo."
+  },
+  {
+   "id": "c027",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c028",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c029",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c030",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c031",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c032",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c033",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c034",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c035",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c036",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c037",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c038",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c039",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c040",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c041",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c042",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c043",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c044",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c045",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "Si se traduce en mejores frecuencias, lo banco. Si no, es más de lo mismo."
+  },
+  {
+   "id": "c046",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c047",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c048",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c049",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c050",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c051",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c052",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c053",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c054",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c055",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c056",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c057",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "Si se traduce en mejores frecuencias, lo banco. Si no, es más de lo mismo."
+  },
+  {
+   "id": "c058",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c059",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c060",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c061",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c062",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c063",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c064",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c065",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c066",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c067",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c068",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c069",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c070",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c071",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c072",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c073",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c074",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c075",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c076",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c077",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c078",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c079",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c080",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c081",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c082",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c083",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c084",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c085",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c086",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c087",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "Si se traduce en mejores frecuencias, lo banco. Si no, es más de lo mismo."
+  },
+  {
+   "id": "c088",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c089",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c090",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c091",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c092",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c093",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c094",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c095",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c096",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c097",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c098",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c099",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c100",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c101",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c102",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c103",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c104",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c105",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c106",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c107",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c108",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c109",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  },
+  {
+   "id": "c110",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c111",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c112",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c113",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c114",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c115",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c116",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "No me parece mal que el sistema se pague, hace años que nadie lo arregla."
+  },
+  {
+   "id": "c117",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c118",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c119",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c120",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c121",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c122",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c123",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c124",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c125",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c126",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c127",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c128",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c129",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c130",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c131",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c132",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "No me parece mal que el sistema se pague, hace años que nadie lo arregla."
+  },
+  {
+   "id": "c133",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c134",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c135",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c136",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c137",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c138",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c139",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c140",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c141",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Yo me muevo caminando, pero 30% de una es una barbaridad, mirá lo que es el servicio."
+  },
+  {
+   "id": "c142",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c143",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c144",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c145",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "La verdad que no me afecta mucho, voy en bici. Entiendo que el sistema hay que bancarlo."
+  },
+  {
+   "id": "c146",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c147",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c148",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c149",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c150",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c151",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c152",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "Si el colectivo se pone caro capaz que algunos se toman más taxi para viajes cortos."
+  },
+  {
+   "id": "c153",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c154",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c155",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c156",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c157",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c158",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c159",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c160",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c161",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c162",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  },
+  {
+   "id": "c163",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c164",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c165",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c166",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c167",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "Si el colectivo se pone caro capaz que algunos se toman más taxi para viajes cortos."
+  },
+  {
+   "id": "c168",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c169",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c170",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c171",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c172",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c173",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c174",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c175",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c176",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c177",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c178",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c179",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c180",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c181",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c182",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c183",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c184",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c185",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Es una medida impopular pero necesaria. El transporte no puede vivir de subsidios eternamente."
+  },
+  {
+   "id": "c186",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c187",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c188",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c189",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c190",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c191",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c192",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c193",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c194",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c195",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c196",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c197",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c198",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c199",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c200",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c201",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c202",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c203",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c204",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c205",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c206",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c207",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c208",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c209",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "Si el colectivo se pone caro capaz que algunos se toman más taxi para viajes cortos."
+  },
+  {
+   "id": "c210",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c211",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c212",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c213",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c214",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c215",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c216",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c217",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c218",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c219",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c220",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c221",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c222",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c223",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c224",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c225",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  },
+  {
+   "id": "c226",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  },
+  {
+   "id": "c227",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c228",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Prefiere un sistema sostenible a subsidios",
+   "cita": "Lo que pido es que se note en el servicio. Si no, no se sostiene políticamente."
+  },
+  {
+   "id": "c229",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c230",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c231",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "No me parece mal que el sistema se pague, hace años que nadie lo arregla."
+  },
+  {
+   "id": "c232",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c233",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c234",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c235",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c236",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c237",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c238",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c239",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c240",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c241",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c242",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c243",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c244",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  },
+  {
+   "id": "c245",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "Si el colectivo se pone caro capaz que algunos se toman más taxi para viajes cortos."
+  },
+  {
+   "id": "c246",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c247",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "Mientras no me cierren las calles, me da un poco igual."
+  },
+  {
+   "id": "c248",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c249",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c250",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c251",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c252",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c253",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Nosotras sostenemos la salud pública y no nos reconocen nada. Ni el boleto."
+  },
+  {
+   "id": "c254",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c255",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c256",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c257",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c258",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c259",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c260",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c261",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c262",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c263",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Yo uso el auto, pero mis dos hijos van en colectivo y suma un montón a fin de mes."
+  },
+  {
+   "id": "c264",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c265",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Yo voy en la moto a la fábrica, pero mi señora y los pibes usan el colectivo todos los días."
+  },
+  {
+   "id": "c266",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c267",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c268",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Ya casi no salimos del barrio. Con esto menos todavía."
+  },
+  {
+   "id": "c269",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Ya me muevo en bici casi siempre, pero cuando llueve el bondi era la salvación. Ahora ni eso."
+  },
+  {
+   "id": "c270",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c271",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c272",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c273",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c274",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c275",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c276",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Somos los que más lejos vivimos y los que más pagamos. No es justo."
+  },
+  {
+   "id": "c277",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c278",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Yo ando en la moto todo el día, el bondi ni lo toco. Lo que me mata es la nafta."
+  },
+  {
+   "id": "c279",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c280",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Va a usar más la bici para no pagar",
+   "cita": "Encima el medio boleto no cubre todo, esto me mata el presupuesto del mes."
+  },
+  {
+   "id": "c281",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c282",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Va en bici y trabaja híbrido",
+   "cita": "Si se traduce en mejores frecuencias, lo banco. Si no, es más de lo mismo."
+  },
+  {
+   "id": "c283",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c284",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Que se dejen de joder. Si no tengo trabajo fijo, ¿cómo pago un 30% más?"
+  },
+  {
+   "id": "c285",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c286",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Trabajo en dos escuelas, son cuatro boletos por día. Con lo que cobramos es un golpazo."
+  },
+  {
+   "id": "c287",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c288",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Gasta una parte enorme de lo que gana en viajar",
+   "cita": "Hago changas en Fisherton y me tomo dos bondis por día. Con esto trabajo para pagar el viaje, loco."
+  },
+  {
+   "id": "c289",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Algunos pasajeros podrían pasarse al taxi",
+   "cita": "Si el colectivo se pone caro capaz que algunos se toman más taxi para viajes cortos."
+  },
+  {
+   "id": "c290",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Viaja entre dos escuelas cada día",
+   "cita": "Después dicen que la educación es prioridad. Que nos den un boleto docente, por lo menos."
+  },
+  {
+   "id": "c291",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "cambia_habitos",
+   "motivo": "Se mueve en moto, pero su familia no",
+   "cita": "Va a ser más moto y menos colectivo. Ya está."
+  },
+  {
+   "id": "c292",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Hace guardias nocturnas y depende del colectivo",
+   "cita": "Salgo de la guardia a las seis de la mañana y el colectivo es lo único que tengo. Encima ahora más caro."
+  },
+  {
+   "id": "c293",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Se mueve en moto, no le cambia",
+   "cita": "Me da igual, pero mi vieja sí lo va a sentir."
+  },
+  {
+   "id": "c294",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Usa poco el colectivo pero le parece un abuso",
+   "cita": "Y no te mejoran nada, eh. Las mismas unidades destartaladas de siempre."
+  },
+  {
+   "id": "c295",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Los chicos van al colegio en colectivo",
+   "cita": "Todo sube menos el sueldo. Un 30% más es otro gasto que hay que recortar de algún lado."
+  },
+  {
+   "id": "c296",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Con la mínima ya no llego, ¿y ahora me suben el boleto? Voy a tener que dejar de ir a ver a mis nietos."
+  },
+  {
+   "id": "c297",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa colectivo, teme menos clientes",
+   "cita": "A mí directamente no me toca porque voy en auto, pero si la gente gasta más en viajar, gasta menos en el local."
+  },
+  {
+   "id": "c298",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "La jubilación no le alcanza y viaja todos los días",
+   "cita": "Siempre pagamos los mismos. Que viajen ellos en el 115 a ver si les parece caro."
+  },
+  {
+   "id": "c299",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "No puede pagar los viajes a la salita y la escuela",
+   "cita": "Si tengo que llevar a los cinco chicos al hospital, ¿con qué plata pago los boletos?"
+  },
+  {
+   "id": "c300",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Viaja desde lejos y el patrón no le reconoce el aumento",
+   "cita": "Viajo una hora y pico hasta el centro. La señora no me va a pagar el aumento del boleto, eso seguro."
+  }
+ ],
+ "analisis": {
+  "resumen": "El aumento del 30% genera un rechazo amplio y concentrado en los sectores de menores ingresos que dependen del colectivo.\nEl apoyo se limita a segmentos de ingresos altos o que no usan el sistema, lo que anticipa un conflicto en los distritos Oeste, Sudoeste y Sur.",
+  "ganadores": [
+   {
+    "segmento": "Empresarios y profesionales de ingresos altos",
+    "motivo": "Valoran la sostenibilidad del sistema y casi no lo usan."
+   },
+   {
+    "segmento": "Taxistas",
+    "motivo": "Esperan captar viajes cortos que hoy se hacen en colectivo."
+   }
+  ],
+  "perdedores": [
+   {
+    "segmento": "Jubilados de la mínima que viajan en colectivo",
+    "motivo": "El aumento recorta directamente sus salidas y visitas familiares."
+   },
+   {
+    "segmento": "Trabajadores informales y empleadas domésticas de la periferia",
+    "motivo": "Viajes largos, varios boletos por día y sin compensación salarial."
+   },
+   {
+    "segmento": "Docentes y personal de salud",
+    "motivo": "Combinan varios trayectos diarios y turnos nocturnos."
+   }
+  ],
+  "quejas": [
+   {
+    "queja": "El aumento es desproporcionado frente a los ingresos",
+    "porcentaje": 46
+   },
+   {
+    "queja": "El servicio no mejora (frecuencias, unidades)",
+    "porcentaje": 22
+   },
+   {
+    "queja": "Pagan más quienes viven más lejos",
+    "porcentaje": 18
+   },
+   {
+    "queja": "No hay compensación para trabajadores que dependen del colectivo",
+    "porcentaje": 14
+   }
+  ],
+  "propuesta": {
+   "titulo": "Aumento escalonado con tarifa social focalizada",
+   "medidaAjustada": "Subimos el boleto de colectivo un 15% ahora y otro 15% en seis meses, con boleto gratuito para jubilados de la mínima y una tarifa social del 50% para estudiantes y trabajadores de bajos ingresos.",
+   "justificacion": "Mantiene el objetivo de recaudación a mediano plazo, amortigua el impacto inmediato y protege a los segmentos con mayor rechazo."
+  },
+  "testimonioIds": [
+   "c004",
+   "c132",
+   "c079",
+   "c186",
+   "c214",
+   "c253"
+  ]
+ },
+ "ajuste": {
+  "medida": "Subimos el boleto de colectivo un 15% ahora y otro 15% en seis meses, con boleto gratuito para jubilados de la mínima y una tarifa social del 50% para estudiantes y trabajadores de bajos ingresos.",
+  "respuestas": [
+   {
+    "id": "c001",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c002",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c003",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c004",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c005",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c006",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c007",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c008",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c009",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c010",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Escalonado y con tarifa social, me parece bien pensado."
+   },
+   {
+    "id": "c011",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c012",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c013",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c014",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c015",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c016",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c017",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c018",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c019",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c020",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c021",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c022",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c023",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c024",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c025",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c026",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Escalonado y con tarifa social, me parece bien pensado."
+   },
+   {
+    "id": "c027",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c028",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c029",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c030",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c031",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Escalonado y con tarifa social, me parece bien pensado."
+   },
+   {
+    "id": "c032",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c033",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c034",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c035",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c036",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c037",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c038",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c039",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c040",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c041",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c042",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c043",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c044",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c045",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Escalonado y con tarifa social, me parece bien pensado."
+   },
+   {
+    "id": "c046",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c047",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c048",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c049",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c050",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c051",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c052",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c053",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c054",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c055",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c056",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c057",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c058",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c059",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c060",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c061",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c062",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c063",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c064",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c065",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c066",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c067",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c068",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c069",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c070",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c071",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c072",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c073",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c074",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c075",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c076",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c077",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c078",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c079",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c080",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c081",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c082",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c083",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c084",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c085",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c086",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c087",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c088",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c089",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c090",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c091",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c092",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c093",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c094",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c095",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c096",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c097",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c098",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c099",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c100",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c101",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c102",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c103",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c104",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c105",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c106",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c107",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c108",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c109",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c110",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c111",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Escalonado y con tarifa social, me parece bien pensado."
+   },
+   {
+    "id": "c112",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c113",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c114",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c115",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c116",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Me da lo mismo, la verdad."
+   },
+   {
+    "id": "c117",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c118",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c119",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c120",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c121",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c122",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c123",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c124",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c125",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c126",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c127",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c128",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c129",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c130",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c131",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c132",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Bien por los jubilados, eso sí."
+   },
+   {
+    "id": "c133",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c134",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Si entro en la tarifa social, me salva. Si no, estoy igual."
+   },
+   {
+    "id": "c135",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c136",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c137",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c138",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c139",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c140",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c141",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c142",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c143",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c144",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c145",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c146",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c147",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c148",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c149",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c150",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c151",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c152",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Bien por los jubilados, eso sí."
+   },
+   {
+    "id": "c153",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c154",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Es una forma inteligente de hacerlo. Menos costo político, mismo objetivo."
+   },
+   {
+    "id": "c155",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c156",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c157",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c158",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c159",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c160",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c161",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c162",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Si entro en la tarifa social, me salva. Si no, estoy igual."
+   },
+   {
+    "id": "c163",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c164",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c165",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c166",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c167",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Bien por los jubilados, eso sí."
+   },
+   {
+    "id": "c168",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c169",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c170",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c171",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c172",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c173",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c174",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Si entro en la tarifa social, me salva. Si no, estoy igual."
+   },
+   {
+    "id": "c175",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c176",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c177",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c178",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c179",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c180",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c181",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c182",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c183",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c184",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c185",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c186",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c187",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c188",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c189",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c190",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c191",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c192",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c193",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c194",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c195",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c196",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c197",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c198",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c199",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c200",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c201",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c202",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c203",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c204",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c205",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c206",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c207",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c208",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c209",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Me da lo mismo, la verdad."
+   },
+   {
+    "id": "c210",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c211",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c212",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c213",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c214",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c215",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c216",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c217",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Mejor, pero deberían pensar en los que trabajamos de noche."
+   },
+   {
+    "id": "c218",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c219",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c220",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c221",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c222",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c223",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c224",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c225",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Si entro en la tarifa social, me salva. Si no, estoy igual."
+   },
+   {
+    "id": "c226",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c227",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c228",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sigue siendo sostenible y más aceptable",
+    "cita": "Bien. Focalizar el subsidio es lo correcto."
+   },
+   {
+    "id": "c229",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c230",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c231",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Bien por los jubilados, eso sí."
+   },
+   {
+    "id": "c232",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c233",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c234",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c235",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c236",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c237",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c238",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c239",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c240",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c241",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Para mi vieja está mejor, eso sí."
+   },
+   {
+    "id": "c242",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c243",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c244",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c245",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Me da lo mismo, la verdad."
+   },
+   {
+    "id": "c246",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c247",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c248",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Los de clase media pagamos todo y no entramos en ningún beneficio."
+   },
+   {
+    "id": "c249",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c250",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c251",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c252",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c253",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c254",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c255",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c256",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c257",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c258",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c259",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c260",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c261",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c262",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c263",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c264",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c265",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "Bueno, es un poco más razonable."
+   },
+   {
+    "id": "c266",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c267",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c268",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Con la mitad algo ayuda, pero cinco chicos son cinco boletos igual."
+   },
+   {
+    "id": "c269",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Mirá vos, cuando escuchan a la gente sale algo razonable."
+   },
+   {
+    "id": "c270",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c271",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c272",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c273",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c274",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c275",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c276",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Voy a averiguar en el distrito cómo se tramita."
+   },
+   {
+    "id": "c277",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c278",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c279",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Me sigue dando igual, pero si la gente no se funde mejor para el comercio."
+   },
+   {
+    "id": "c280",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Tarifa social del 50% para estudiantes",
+    "cita": "Con la tarifa social me queda casi igual que antes, lo puedo bancar."
+   },
+   {
+    "id": "c281",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c282",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece un esquema más justo",
+    "cita": "Esto sí lo banco, que pague más el que puede."
+   },
+   {
+    "id": "c283",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "En dos partes es más digerible. Igual no lo uso tanto."
+   },
+   {
+    "id": "c284",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "Suena lindo, pero el trámite seguro que es un lío."
+   },
+   {
+    "id": "c285",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c286",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Es menos peor, pero sigo pagando cuatro boletos por día."
+   },
+   {
+    "id": "c287",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c288",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Duda de poder acceder a la tarifa social sin recibo",
+    "cita": "¿Y cómo demuestro que gano poco si no tengo recibo? Siempre quedamos afuera."
+   },
+   {
+    "id": "c289",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Menos efecto sobre sus viajes",
+    "cita": "Me da lo mismo, la verdad."
+   },
+   {
+    "id": "c290",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Mejor escalonado, pero sigue sin boleto docente",
+    "cita": "Un alivio a medias. Insisto con el boleto docente."
+   },
+   {
+    "id": "c291",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "El aumento escalonado se siente menos en la familia",
+    "cita": "En dos veces se lleva mejor. Igual sigo en la moto."
+   },
+   {
+    "id": "c292",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pide incluir a trabajadores nocturnos",
+    "cita": "Es un paso, pero a la salud pública todavía no la miran."
+   },
+   {
+    "id": "c293",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin usar el colectivo",
+    "cita": "Me sigue dando igual, yo ando en moto."
+   },
+   {
+    "id": "c294",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Le parece más razonable en etapas",
+    "cita": "Así está mejor, sin el golpe de una."
+   },
+   {
+    "id": "c295",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "No califica para la tarifa social",
+    "cita": "Para mis hijos sigue siendo un gasto más."
+   },
+   {
+    "id": "c296",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Bueno, por lo menos se acordaron de nosotros esta vez."
+   },
+   {
+    "id": "c297",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue sin afectarle directamente",
+    "cita": "Está bien que lo hagan escalonado."
+   },
+   {
+    "id": "c298",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta por cobrar la mínima",
+    "cita": "Si a los jubilados no nos cobran, está bien. Que paguen los que pueden."
+   },
+   {
+    "id": "c299",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Alivio parcial, pero sigue costando",
+    "cita": "Ojalá sea fácil anotarse, porque nunca lo es."
+   },
+   {
+    "id": "c300",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "cambia_habitos",
+    "motivo": "La tarifa social la alivia si califica",
+    "cita": "Si entro en la tarifa social, me salva. Si no, estoy igual."
+   }
+  ]
+ }
+}

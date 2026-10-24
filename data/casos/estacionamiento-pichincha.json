@@ -1,0 +1,4867 @@
+{
+ "id": "estacionamiento-pichincha",
+ "titulo": "Estacionamiento medido en Pichincha",
+ "medida": "Implementamos estacionamiento medido pago en todo el barrio Pichincha, de lunes a sábado de 8 a 20 y viernes y sábados hasta las 3 de la mañana.",
+ "fuente": "heuristica",
+ "respuestas": [
+  {
+   "id": "c001",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c002",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c003",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c004",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c005",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c006",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c007",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c008",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c009",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c010",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c011",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c012",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c013",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c014",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c015",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c016",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c017",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c018",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c019",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c020",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c021",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c022",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c023",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c024",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c025",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c026",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Ordenar está bien, pero cobrarle al que vive ahí es ridículo."
+  },
+  {
+   "id": "c027",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c028",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c029",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c030",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c031",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Ordenar está bien, pero cobrarle al que vive ahí es ridículo."
+  },
+  {
+   "id": "c032",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c033",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c034",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c035",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c036",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c037",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c038",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c039",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c040",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c041",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c042",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c043",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c044",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c045",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c046",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c047",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c048",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c049",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c050",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c051",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c052",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Ordenar está bien, pero cobrarle al que vive ahí es ridículo."
+  },
+  {
+   "id": "c053",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c054",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c055",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c056",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c057",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Ordenar está bien, pero cobrarle al que vive ahí es ridículo."
+  },
+  {
+   "id": "c058",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c059",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c060",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c061",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c062",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c063",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c064",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c065",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Ordenar está bien, pero cobrarle al que vive ahí es ridículo."
+  },
+  {
+   "id": "c066",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c067",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c068",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c069",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c070",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c071",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c072",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c073",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c074",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c075",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c076",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c077",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c078",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c079",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c080",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c081",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c082",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c083",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c084",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c085",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c086",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c087",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c088",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c089",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c090",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c091",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c092",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c093",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c094",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c095",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c096",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c097",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c098",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c099",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c100",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c101",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c102",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c103",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c104",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c105",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c106",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c107",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c108",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c109",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "No tengo auto, me da igual."
+  },
+  {
+   "id": "c110",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c111",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c112",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c113",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c114",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c115",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c116",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+  },
+  {
+   "id": "c117",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c118",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c119",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Bien hecho, mientras se fiscalice."
+  },
+  {
+   "id": "c120",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c121",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c122",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c123",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c124",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c125",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c126",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c127",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c128",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c129",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c130",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c131",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c132",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+  },
+  {
+   "id": "c133",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c134",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c135",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c136",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c137",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c138",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c139",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c140",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c141",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c142",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c143",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c144",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c145",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c146",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c147",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c148",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c149",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c150",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c151",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c152",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+  },
+  {
+   "id": "c153",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "No tengo auto, me da igual."
+  },
+  {
+   "id": "c154",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c155",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c156",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c157",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c158",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+  },
+  {
+   "id": "c159",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c160",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c161",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c162",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c163",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c164",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c165",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c166",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c167",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+  },
+  {
+   "id": "c168",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c169",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c170",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c171",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c172",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c173",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c174",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c175",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c176",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c177",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c178",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c179",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c180",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c181",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c182",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c183",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c184",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c185",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Bien hecho, mientras se fiscalice."
+  },
+  {
+   "id": "c186",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c187",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c188",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c189",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c190",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c191",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c192",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c193",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c194",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c195",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c196",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c197",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c198",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c199",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c200",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c201",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c202",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c203",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c204",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c205",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c206",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c207",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c208",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c209",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+  },
+  {
+   "id": "c210",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c211",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c212",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c213",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c214",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c215",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c216",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c217",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c218",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c219",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c220",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c221",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c222",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Siempre les cae a los que laburamos en la calle."
+  },
+  {
+   "id": "c223",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c224",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c225",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "No tengo auto, me da igual."
+  },
+  {
+   "id": "c226",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "No tengo auto, me da igual."
+  },
+  {
+   "id": "c227",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c228",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Ordena el espacio y desalienta cuidacoches",
+   "cita": "Bien hecho, mientras se fiscalice."
+  },
+  {
+   "id": "c229",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c230",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c231",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+  },
+  {
+   "id": "c232",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c233",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c234",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c235",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c236",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c237",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c238",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c239",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c240",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c241",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c242",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c243",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c244",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No tiene auto",
+   "cita": "No tengo auto, me da igual."
+  },
+  {
+   "id": "c245",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+  },
+  {
+   "id": "c246",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c247",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c248",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c249",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Mientras lo recaudado vaya a algo útil."
+  },
+  {
+   "id": "c250",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c251",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c252",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c253",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c254",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c255",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c256",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c257",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c258",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c259",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c260",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c261",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c262",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "Nunca voy a Pichincha, ni me enteré."
+  },
+  {
+   "id": "c263",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Vamos a terminar quedándonos en casa."
+  },
+  {
+   "id": "c264",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Pensaron en los bares, no en los que trabajamos."
+  },
+  {
+   "id": "c265",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c266",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c267",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c268",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "Que pongan esa plata en el barrio."
+  },
+  {
+   "id": "c269",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Igual yo voy en bici, pero mis amigos van a dejar de ir a Pichincha."
+  },
+  {
+   "id": "c270",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c271",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c272",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c273",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c274",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c275",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+  },
+  {
+   "id": "c276",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  },
+  {
+   "id": "c277",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c278",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c279",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c280",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Lo ve como recaudación nocturna sobre los que salen",
+   "cita": "Es recaudación pura. ¿Hasta las tres de la mañana? Dale."
+  },
+  {
+   "id": "c281",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c282",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Vive en Pichincha y teme pagar siendo residente",
+   "cita": "Vivo en Pichincha. Si no hay permiso para residentes es un despropósito."
+  },
+  {
+   "id": "c283",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "Siempre buscan sacarle plata al vecino."
+  },
+  {
+   "id": "c284",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No va a Pichincha",
+   "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+  },
+  {
+   "id": "c285",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c286",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c287",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c288",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No va a Pichincha",
+   "cita": "Ni idea, nunca voy para ese lado."
+  },
+  {
+   "id": "c289",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más gente usaría taxi para salir de noche",
+   "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+  },
+  {
+   "id": "c290",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No usa auto",
+   "cita": "Yo voy en colectivo, no me toca."
+  },
+  {
+   "id": "c291",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No frecuenta la zona",
+   "cita": "No me afecta en nada."
+  },
+  {
+   "id": "c292",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Trabaja de noche cerca y a veces va en auto",
+   "cita": "Cuando entro de guardia a la noche a veces voy en auto. ¿Tengo que pagar también?"
+  },
+  {
+   "id": "c293",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que también controlen las motos",
+   "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+  },
+  {
+   "id": "c294",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Vive en la zona y tendría que pagar por estacionar en su cuadra",
+   "cita": "¿Tengo que pagar para dejar el auto en la puerta de mi casa? Es un robo."
+  },
+  {
+   "id": "c295",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Sale a comer los fines de semana por la zona",
+   "cita": "Salir a cenar ya es caro, encima ahora pagar el estacionamiento."
+  },
+  {
+   "id": "c296",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Yo no tengo auto, que cobren lo que quieran."
+  },
+  {
+   "id": "c297",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más rotación de autos cerca de los comercios",
+   "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+  },
+  {
+   "id": "c298",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Por ahí así se ordena un poco ese barrio."
+  },
+  {
+   "id": "c299",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene relación con la medida",
+   "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+  },
+  {
+   "id": "c300",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No tiene auto",
+   "cita": "Que se arreglen los que tienen auto."
+  }
+ ],
+ "analisis": {
+  "resumen": "El estacionamiento medido en Pichincha es mayormente indiferente para la ciudad, pero genera rechazo concentrado en residentes y en quienes salen de noche.\nEl cobro hasta las 3 de la mañana se percibe como recaudatorio; el orden y la rotación son valorados por comerciantes y taxistas.",
+  "ganadores": [
+   {
+    "segmento": "Comerciantes y gastronómicos",
+    "motivo": "Mayor rotación de autos y clientes que encuentran lugar."
+   },
+   {
+    "segmento": "Taxistas",
+    "motivo": "Más demanda nocturna de viajes."
+   }
+  ],
+  "perdedores": [
+   {
+    "segmento": "Residentes de Pichincha con auto",
+    "motivo": "Pagarían por estacionar frente a su casa."
+   },
+   {
+    "segmento": "Jóvenes y familias que salen de noche",
+    "motivo": "Suma un costo a la salida nocturna."
+   },
+   {
+    "segmento": "Trabajadores nocturnos de la zona",
+    "motivo": "Pagan durante sus turnos."
+   }
+  ],
+  "quejas": [
+   {
+    "queja": "Cobro nocturno percibido como recaudatorio",
+    "porcentaje": 18
+   },
+   {
+    "queja": "Los residentes no deberían pagar",
+    "porcentaje": 14
+   },
+   {
+    "queja": "Encarece las salidas",
+    "porcentaje": 10
+   }
+  ],
+  "propuesta": {
+   "titulo": "Medido diurno con permiso para residentes",
+   "medidaAjustada": "Implementamos estacionamiento medido en Pichincha de lunes a sábado de 9 a 20, con permiso gratuito para residentes y destinando lo recaudado a seguridad y limpieza del barrio.",
+   "justificacion": "Conserva la rotación diurna, elimina el principal foco de rechazo (residentes y cobro nocturno) y le da un destino visible a la recaudación."
+  },
+  "testimonioIds": [
+   "c010",
+   "c154",
+   "c079",
+   "c174",
+   "c215",
+   "c263"
+  ]
+ },
+ "ajuste": {
+  "medida": "Implementamos estacionamiento medido en Pichincha de lunes a sábado de 9 a 20, con permiso gratuito para residentes y destinando lo recaudado a seguridad y limpieza del barrio.",
+  "respuestas": [
+   {
+    "id": "c001",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c002",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c003",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c004",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c005",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c006",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c007",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c008",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c009",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c010",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Con permiso de residente me parece bárbaro. Ordena un montón."
+   },
+   {
+    "id": "c011",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c012",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c013",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c014",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c015",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c016",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c017",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c018",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c019",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c020",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c021",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c022",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c023",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c024",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c025",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c026",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c027",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c028",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c029",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c030",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+   },
+   {
+    "id": "c031",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c032",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c033",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c034",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c035",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c036",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c037",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c038",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c039",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Con permiso de residente me parece bárbaro. Ordena un montón."
+   },
+   {
+    "id": "c040",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c041",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c042",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c043",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c044",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c045",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Con permiso de residente me parece bárbaro. Ordena un montón."
+   },
+   {
+    "id": "c046",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c047",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c048",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c049",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c050",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c051",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c052",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c053",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c054",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c055",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c056",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c057",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c058",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c059",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c060",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c061",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c062",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c063",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c064",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c065",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c066",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c067",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c068",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c069",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c070",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c071",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c072",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c073",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c074",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c075",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c076",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c077",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c078",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c079",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c080",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c081",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c082",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c083",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c084",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c085",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c086",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c087",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c088",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c089",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c090",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c091",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c092",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c093",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c094",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c095",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c096",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c097",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c098",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c099",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c100",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c101",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c102",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c103",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c104",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c105",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c106",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c107",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c108",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c109",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c110",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c111",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Queda exenta como residente",
+    "cita": "Con permiso de residente me parece bárbaro. Ordena un montón."
+   },
+   {
+    "id": "c112",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c113",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c114",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c115",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c116",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+   },
+   {
+    "id": "c117",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c118",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c119",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+   },
+   {
+    "id": "c120",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c121",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c122",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c123",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c124",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c125",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c126",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c127",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c128",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c129",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c130",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c131",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c132",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+   },
+   {
+    "id": "c133",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c134",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c135",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c136",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c137",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c138",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c139",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c140",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c141",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c142",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c143",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c144",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c145",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c146",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c147",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c148",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c149",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c150",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+   },
+   {
+    "id": "c151",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c152",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+   },
+   {
+    "id": "c153",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c154",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+   },
+   {
+    "id": "c155",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c156",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c157",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c158",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Es una forma de ordenar y terminar con los trapitos. Lo apoyo."
+   },
+   {
+    "id": "c159",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   },
+   {
+    "id": "c160",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c161",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c162",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c163",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c164",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c165",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c166",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c167",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+   },
+   {
+    "id": "c168",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c169",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c170",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c171",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c172",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c173",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c174",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   },
+   {
+    "id": "c175",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c176",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c177",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c178",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c179",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c180",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c181",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c182",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c183",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c184",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c185",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c186",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c187",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c188",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c189",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c190",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c191",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c192",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c193",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c194",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c195",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c196",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c197",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c198",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c199",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c200",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c201",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c202",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c203",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c204",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c205",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c206",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c207",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c208",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c209",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+   },
+   {
+    "id": "c210",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c211",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c212",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c213",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c214",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c215",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c216",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c217",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c218",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c219",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c220",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Bueno, menos recaudatorio que antes."
+   },
+   {
+    "id": "c221",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c222",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c223",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c224",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c225",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c226",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c227",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c228",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Ordena el espacio y desalienta cuidacoches",
+    "cita": "Bien hecho, mientras se fiscalice."
+   },
+   {
+    "id": "c229",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c230",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c231",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Si cobran estacionamiento a la noche, más gente se toma un taxi. Bienvenido."
+   },
+   {
+    "id": "c232",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c233",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c234",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c235",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c236",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c237",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c238",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c239",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c240",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c241",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c242",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c243",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c244",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   },
+   {
+    "id": "c245",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+   },
+   {
+    "id": "c246",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c247",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c248",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c249",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c250",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c251",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c252",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "No me afecta en nada."
+   },
+   {
+    "id": "c253",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c254",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c255",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c256",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c257",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c258",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c259",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c260",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   },
+   {
+    "id": "c261",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c262",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c263",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Si a la noche no cobran, seguimos saliendo igual."
+   },
+   {
+    "id": "c264",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Más seguridad a la noche me viene bien para salir de la guardia."
+   },
+   {
+    "id": "c265",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c266",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c267",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c268",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "No tenemos auto, eso es de otro mundo para nosotros."
+   },
+   {
+    "id": "c269",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c270",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c271",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c272",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c273",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   },
+   {
+    "id": "c274",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Siempre les cae a los que laburamos en la calle."
+   },
+   {
+    "id": "c275",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c276",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Que se arreglen los que tienen auto."
+   },
+   {
+    "id": "c277",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c278",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c279",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Por fin algo de orden, los autos quedan todo el día en la misma cuadra."
+   },
+   {
+    "id": "c280",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin tarifa nocturna, le molesta menos",
+    "cita": "Sin cobrar a la madrugada, ya fue, me da igual."
+   },
+   {
+    "id": "c281",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c282",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Queda exenta como residente",
+    "cita": "Y si la plata va a seguridad, mejor todavía."
+   },
+   {
+    "id": "c283",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Con permiso para los vecinos, está perfecto. Que paguen los que vienen de afuera."
+   },
+   {
+    "id": "c284",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Ni idea, nunca voy para ese lado."
+   },
+   {
+    "id": "c285",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c286",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Yo voy en colectivo, no me toca."
+   },
+   {
+    "id": "c287",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c288",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va a Pichincha",
+    "cita": "Eso es para los chetos que salen de noche, a mí no me cambia."
+   },
+   {
+    "id": "c289",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más gente usaría taxi para salir de noche",
+    "cita": "Y encima hay menos autos en doble fila, es un caos esa zona."
+   },
+   {
+    "id": "c290",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No usa auto",
+    "cita": "Mientras lo recaudado vaya a algo útil."
+   },
+   {
+    "id": "c291",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No frecuenta la zona",
+    "cita": "Nunca voy a Pichincha, ni me enteré."
+   },
+   {
+    "id": "c292",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno no la afecta",
+    "cita": "Si es hasta las 20, a la noche no pago. Está bien."
+   },
+   {
+    "id": "c293",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Teme que también controlen las motos",
+    "cita": "Si me cobran a la moto por cada entrega, estoy frito."
+   },
+   {
+    "id": "c294",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Permiso gratuito para residentes",
+    "cita": "Así sí. Pensaron en el que vive acá."
+   },
+   {
+    "id": "c295",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sin cobro nocturno, sale igual a cenar",
+    "cita": "Así se puede."
+   },
+   {
+    "id": "c296",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Por ahí así se ordena un poco ese barrio."
+   },
+   {
+    "id": "c297",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más rotación de autos cerca de los comercios",
+    "cita": "Si rota el estacionamiento, los clientes encuentran lugar. Me sirve."
+   },
+   {
+    "id": "c298",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "Yo no tengo auto, que cobren lo que quieran."
+   },
+   {
+    "id": "c299",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene relación con la medida",
+    "cita": "Que pongan esa plata en el barrio."
+   },
+   {
+    "id": "c300",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No tiene auto",
+    "cita": "No tengo auto, me da igual."
+   }
+  ]
+ }
+}

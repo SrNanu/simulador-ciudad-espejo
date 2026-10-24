@@ -1,0 +1,4871 @@
+{
+ "id": "peatonal-cordoba",
+ "titulo": "Peatonalizar Córdoba hasta Oroño",
+ "medida": "Extendemos la peatonal Córdoba desde Plaza San Martín hasta Bv. Oroño, cerrando ese tramo al tránsito vehicular.",
+ "fuente": "heuristica",
+ "respuestas": [
+  {
+   "id": "c001",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c002",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c003",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c004",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c005",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c006",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c007",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c008",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c009",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c010",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c011",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c012",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c013",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c014",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c015",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c016",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c017",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c018",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c019",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c020",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c021",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c022",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c023",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c024",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "No me opongo, pero así de golpe es improvisado."
+  },
+  {
+   "id": "c025",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c026",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c027",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c028",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c029",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c030",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "No me opongo, pero así de golpe es improvisado."
+  },
+  {
+   "id": "c031",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+  },
+  {
+   "id": "c032",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c033",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c034",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c035",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c036",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c037",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c038",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c039",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c040",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c041",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c042",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c043",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c044",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c045",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c046",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c047",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c048",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c049",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c050",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c051",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c052",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c053",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c054",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c055",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c056",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c057",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c058",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c059",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c060",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c061",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c062",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c063",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c064",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c065",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+  },
+  {
+   "id": "c066",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c067",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c068",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c069",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c070",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c071",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c072",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c073",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c074",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c075",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c076",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c077",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c078",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c079",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c080",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c081",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c082",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c083",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c084",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c085",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c086",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c087",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+  },
+  {
+   "id": "c088",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c089",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c090",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c091",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c092",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c093",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c094",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c095",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c096",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c097",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c098",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c099",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c100",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c101",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c102",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c103",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c104",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c105",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c106",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c107",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c108",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c109",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c110",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c111",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+  },
+  {
+   "id": "c112",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c113",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c114",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c115",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c116",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Otra calle menos para trabajar. El centro ya es un embudo."
+  },
+  {
+   "id": "c117",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c118",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c119",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "No me opongo, pero así de golpe es improvisado."
+  },
+  {
+   "id": "c120",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c121",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c122",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c123",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c124",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c125",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c126",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c127",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c128",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c129",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c130",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c131",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c132",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Después se quejan de que el taxi tarda. ¿Por dónde querés que pase?"
+  },
+  {
+   "id": "c133",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "Lindo para algunos, supongo."
+  },
+  {
+   "id": "c134",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c135",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c136",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c137",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "No me opongo, pero así de golpe es improvisado."
+  },
+  {
+   "id": "c138",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c139",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c140",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c141",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c142",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c143",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c144",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c145",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+  },
+  {
+   "id": "c146",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c147",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c148",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c149",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c150",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c151",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c152",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Después se quejan de que el taxi tarda. ¿Por dónde querés que pase?"
+  },
+  {
+   "id": "c153",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c154",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c155",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c156",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "No me opongo, pero así de golpe es improvisado."
+  },
+  {
+   "id": "c157",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c158",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c159",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c160",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c161",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c162",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c163",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c164",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c165",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c166",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c167",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Otra calle menos para trabajar. El centro ya es un embudo."
+  },
+  {
+   "id": "c168",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c169",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c170",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "Lindo para algunos, supongo."
+  },
+  {
+   "id": "c171",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c172",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c173",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c174",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c175",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c176",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c177",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c178",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c179",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c180",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c181",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c182",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c183",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c184",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c185",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c186",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c187",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c188",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c189",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c190",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c191",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c192",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c193",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c194",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c195",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c196",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c197",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c198",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c199",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "Lindo para algunos, supongo."
+  },
+  {
+   "id": "c200",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c201",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c202",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c203",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "Lindo para algunos, supongo."
+  },
+  {
+   "id": "c204",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c205",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c206",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c207",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c208",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c209",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Después se quejan de que el taxi tarda. ¿Por dónde querés que pase?"
+  },
+  {
+   "id": "c210",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c211",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c212",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c213",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c214",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c215",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c216",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c217",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c218",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c219",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c220",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c221",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c222",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c223",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c224",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c225",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c226",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c227",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c228",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Preocupado por la logística y el valor comercial",
+   "cita": "Sin carga y descarga ordenada, la logística en esa zona se vuelve inviable."
+  },
+  {
+   "id": "c229",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c230",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c231",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Otra calle menos para trabajar. El centro ya es un embudo."
+  },
+  {
+   "id": "c232",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c233",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c234",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+  },
+  {
+   "id": "c235",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c236",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c237",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c238",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c239",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "Lindo para algunos, supongo."
+  },
+  {
+   "id": "c240",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c241",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c242",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c243",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c244",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c245",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Otra calle menos para trabajar. El centro ya es un embudo."
+  },
+  {
+   "id": "c246",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c247",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "¿Y cómo descargo la mercadería? ¿Y los clientes dónde estacionan? Nos van a fundir."
+  },
+  {
+   "id": "c248",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c249",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c250",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c251",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c252",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c253",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c254",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c255",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "Que arreglen las calles del barrio primero."
+  },
+  {
+   "id": "c256",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c257",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Más vueltas, más nafta, y el pedido lo pagan igual."
+  },
+  {
+   "id": "c258",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c259",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+  },
+  {
+   "id": "c260",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c261",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c262",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c263",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c264",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+  },
+  {
+   "id": "c265",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c266",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Lindo para pasear el domingo, pero un día de semana es un problema."
+  },
+  {
+   "id": "c267",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c268",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c269",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+  },
+  {
+   "id": "c270",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c271",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c272",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c273",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  },
+  {
+   "id": "c274",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c275",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c276",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Si desvían el colectivo tengo que caminar diez cuadras más con el calor."
+  },
+  {
+   "id": "c277",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c278",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c279",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c280",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Más espacio para bici y caminar",
+   "cita": "Ojalá hagan bicisendas que conecten bien."
+  },
+  {
+   "id": "c281",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c282",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Vive cerca y valora el espacio público",
+   "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+  },
+  {
+   "id": "c283",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c284",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c285",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c286",
+   "postura": 2,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Me parece bien, el centro tiene que ser de la gente."
+  },
+  {
+   "id": "c287",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c288",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Casi no va al centro",
+   "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+  },
+  {
+   "id": "c289",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Pierde una vía clave y menos pasajeros en la zona",
+   "cita": "Después se quejan de que el taxi tarda. ¿Por dónde querés que pase?"
+  },
+  {
+   "id": "c290",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le parece bueno para la vida urbana",
+   "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+  },
+  {
+   "id": "c291",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No va al centro",
+   "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+  },
+  {
+   "id": "c292",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le preocupa el acceso de ambulancias",
+   "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+  },
+  {
+   "id": "c293",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "Le complica las entregas en la zona",
+   "cita": "Para repartir es un garrón, vas a tener que dejar la moto lejos."
+  },
+  {
+   "id": "c294",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Pasea por el centro casi a diario",
+   "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+  },
+  {
+   "id": "c295",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Va al centro en auto y teme más tránsito",
+   "cita": "Va a ser un caos el tránsito en las paralelas. Ya está imposible."
+  },
+  {
+   "id": "c296",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+  },
+  {
+   "id": "c297",
+   "postura": -2,
+   "afectacion": "negativa",
+   "accion": "protesta",
+   "motivo": "Teme perder clientes que llegan en auto y la carga",
+   "cita": "Lo deciden desde un escritorio. Que vengan a ver cómo está el centro."
+  },
+  {
+   "id": "c298",
+   "postura": 1,
+   "afectacion": "positiva",
+   "accion": "apoya",
+   "motivo": "Le gusta caminar tranquila por el centro",
+   "cita": "Mientras el colectivo me deje cerca, está lindo."
+  },
+  {
+   "id": "c299",
+   "postura": 0,
+   "afectacion": "neutral",
+   "accion": "indiferente",
+   "motivo": "No le cambia la vida diaria",
+   "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+  },
+  {
+   "id": "c300",
+   "postura": -1,
+   "afectacion": "negativa",
+   "accion": "se_queja",
+   "motivo": "Teme que desvíen los colectivos que usa",
+   "cita": "Esto es para los del centro, a nosotros no nos cambia nada para bien."
+  }
+ ],
+ "analisis": {
+  "resumen": "La extensión de la peatonal divide a la ciudad: es bien recibida por quienes caminan o viven en el Centro, pero genera fuerte resistencia en comerciantes, taxistas y repartidores.\nFuera del Centro predomina la indiferencia y la percepción de que no es una prioridad.",
+  "ganadores": [
+   {
+    "segmento": "Profesionales jóvenes y estudiantes del Centro",
+    "motivo": "Ganan espacio público y movilidad a pie o en bici."
+   },
+   {
+    "segmento": "Jubilados que pasean por el centro",
+    "motivo": "Caminan con más tranquilidad y seguridad."
+   }
+  ],
+  "perdedores": [
+   {
+    "segmento": "Comerciantes del tramo afectado",
+    "motivo": "Temen perder clientes en auto y no poder descargar mercadería."
+   },
+   {
+    "segmento": "Taxistas y repartidores",
+    "motivo": "Pierden una vía clave y suman recorrido."
+   },
+   {
+    "segmento": "Usuarios de colectivo de la periferia",
+    "motivo": "Temen desvíos de líneas y caminatas más largas."
+   }
+  ],
+  "quejas": [
+   {
+    "queja": "Falta de carga y descarga para comercios",
+    "porcentaje": 24
+   },
+   {
+    "queja": "Más congestión en calles paralelas",
+    "porcentaje": 21
+   },
+   {
+    "queja": "No es una prioridad para los barrios",
+    "porcentaje": 19
+   },
+   {
+    "queja": "Desvío de colectivos",
+    "porcentaje": 12
+   }
+  ],
+  "propuesta": {
+   "titulo": "Peatonalización en etapas con ventana logística",
+   "medidaAjustada": "Peatonalizamos Córdoba entre Plaza San Martín y Bv. Oroño en etapas: tres meses de prueba como semipeatonal, con carga y descarga de 6 a 10, prioridad para colectivos en las calles paralelas y evaluación conjunta con comerciantes.",
+   "justificacion": "Reduce el impacto sobre comercio y logística, y convierte una decisión abrupta en una prueba medible."
+  },
+  "testimonioIds": [
+   "c001",
+   "c087",
+   "c125",
+   "c173",
+   "c217",
+   "c289"
+  ]
+ },
+ "ajuste": {
+  "medida": "Peatonalizamos Córdoba entre Plaza San Martín y Bv. Oroño en etapas: tres meses de prueba como semipeatonal, con carga y descarga de 6 a 10, prioridad para colectivos en las calles paralelas y evaluación conjunta con comerciantes.",
+  "respuestas": [
+   {
+    "id": "c001",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c002",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c003",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c004",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c005",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c006",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c007",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c008",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c009",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c010",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c011",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c012",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c013",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c014",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c015",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c016",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c017",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c018",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c019",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c020",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c021",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c022",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c023",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c024",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c025",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c026",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+   },
+   {
+    "id": "c027",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c028",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c029",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c030",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c031",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c032",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c033",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c034",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c035",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c036",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c037",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c038",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c039",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c040",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c041",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c042",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c043",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c044",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c045",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c046",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c047",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c048",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c049",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c050",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Vamos a ver si es cierto que priorizan los colectivos."
+   },
+   {
+    "id": "c051",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c052",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+   },
+   {
+    "id": "c053",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c054",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c055",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c056",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c057",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+   },
+   {
+    "id": "c058",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c059",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c060",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c061",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c062",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c063",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c064",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c065",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c066",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c067",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c068",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c069",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c070",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c071",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c072",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c073",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c074",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c075",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c076",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c077",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c078",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c079",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c080",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c081",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c082",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c083",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c084",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c085",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c086",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c087",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+   },
+   {
+    "id": "c088",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c089",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c090",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c091",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c092",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c093",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c094",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c095",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c096",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c097",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c098",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c099",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c100",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c101",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c102",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c103",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c104",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c105",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c106",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c107",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c108",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c109",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c110",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c111",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c112",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c113",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c114",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c115",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c116",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Que en la evaluación nos pregunten también a los taxistas."
+   },
+   {
+    "id": "c117",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c118",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c119",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c120",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c121",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c122",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c123",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c124",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c125",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c126",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c127",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c128",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c129",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c130",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c131",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c132",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Igual nos cierran una calle, pero bueno, que sea de prueba."
+   },
+   {
+    "id": "c133",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c134",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c135",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c136",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c137",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c138",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c139",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c140",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c141",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c142",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c143",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c144",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c145",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "¡Por fin! Ciudades como Barcelona hacen esto hace años."
+   },
+   {
+    "id": "c146",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c147",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c148",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c149",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c150",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c151",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c152",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Que en la evaluación nos pregunten también a los taxistas."
+   },
+   {
+    "id": "c153",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c154",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c155",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c156",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Con ventana de carga y una etapa de prueba, me parece sensato."
+   },
+   {
+    "id": "c157",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c158",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c159",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c160",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c161",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c162",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c163",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c164",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c165",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c166",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c167",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Que en la evaluación nos pregunten también a los taxistas."
+   },
+   {
+    "id": "c168",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c169",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c170",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c171",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c172",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c173",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c174",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c175",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c176",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c177",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c178",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c179",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c180",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c181",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c182",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c183",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c184",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c185",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c186",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c187",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c188",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c189",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c190",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c191",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c192",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c193",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c194",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c195",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c196",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c197",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c198",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c199",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c200",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c201",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c202",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c203",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c204",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c205",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c206",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c207",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c208",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c209",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Que en la evaluación nos pregunten también a los taxistas."
+   },
+   {
+    "id": "c210",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c211",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c212",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c213",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c214",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c215",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c216",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c217",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c218",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c219",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c220",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Ojalá hagan bicisendas que conecten bien."
+   },
+   {
+    "id": "c221",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c222",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c223",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c224",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c225",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c226",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Vamos a ver si es cierto que priorizan los colectivos."
+   },
+   {
+    "id": "c227",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c228",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con ventana logística el proyecto es viable",
+    "cita": "Así sí. Planificado y medible."
+   },
+   {
+    "id": "c229",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c230",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c231",
+    "postura": -2,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Que en la evaluación nos pregunten también a los taxistas."
+   },
+   {
+    "id": "c232",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c233",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c234",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Va a quedar hermoso hasta el Oroño. Yo camino todos los días por ahí."
+   },
+   {
+    "id": "c235",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c236",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c237",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c238",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c239",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c240",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c241",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c242",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c243",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c244",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c245",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Igual nos cierran una calle, pero bueno, que sea de prueba."
+   },
+   {
+    "id": "c246",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c247",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c248",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c249",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c250",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c251",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "No sé ni dónde queda eso. En el barrio no tenemos ni veredas."
+   },
+   {
+    "id": "c252",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c253",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c254",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Mientras no desvíen los colectivos lejos, lo apoyo."
+   },
+   {
+    "id": "c255",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c256",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c257",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c258",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c259",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c260",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Si el colectivo no se demora, me da igual."
+   },
+   {
+    "id": "c261",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c262",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c263",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Si el tránsito no se pone imposible, de acuerdo."
+   },
+   {
+    "id": "c264",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Mientras dejen pasar a las ambulancias, me da igual."
+   },
+   {
+    "id": "c265",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "Que arreglen las calles del barrio primero."
+   },
+   {
+    "id": "c266",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c267",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c268",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c269",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c270",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c271",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c272",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c273",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Vamos a ver si es cierto que priorizan los colectivos."
+   },
+   {
+    "id": "c274",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c275",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c276",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Vamos a ver si es cierto que priorizan los colectivos."
+   },
+   {
+    "id": "c277",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c278",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Si a la mañana se puede entrar, me organizo."
+   },
+   {
+    "id": "c279",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Si de verdad nos van a escuchar en la evaluación, lo banco."
+   },
+   {
+    "id": "c280",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Más espacio para bici y caminar",
+    "cita": "Buenísimo, más ciudad para la gente y menos para los autos."
+   },
+   {
+    "id": "c281",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Mientras el colectivo me deje cerca, está lindo."
+   },
+   {
+    "id": "c282",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Vive cerca y valora el espacio público",
+    "cita": "Va a mejorar un montón el barrio, más bares y más gente en la calle."
+   },
+   {
+    "id": "c283",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c284",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Ni voy al centro, la verdad. Que hagan lo que quieran."
+   },
+   {
+    "id": "c285",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c286",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c287",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c288",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Casi no va al centro",
+    "cita": "Con lo que tenemos en el barrio, ¿esto es la prioridad?"
+   },
+   {
+    "id": "c289",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "se_queja",
+    "motivo": "Sigue perdiendo la calle, pero hay prueba",
+    "cita": "Igual nos cierran una calle, pero bueno, que sea de prueba."
+   },
+   {
+    "id": "c290",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Le parece bueno para la vida urbana",
+    "cita": "Me parece bien, el centro tiene que ser de la gente."
+   },
+   {
+    "id": "c291",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No va al centro",
+    "cita": "A mí ni me va ni me viene, yo trabajo en zona sur."
+   },
+   {
+    "id": "c292",
+    "postura": -1,
+    "afectacion": "negativa",
+    "accion": "indiferente",
+    "motivo": "Le preocupa el acceso de ambulancias",
+    "cita": "Lindo, pero hay cosas más urgentes en los hospitales."
+   },
+   {
+    "id": "c293",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Con horario de carga puede entrar a la mañana",
+    "cita": "Bueno, por lo menos pensaron en los que trabajamos."
+   },
+   {
+    "id": "c294",
+    "postura": 2,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Pasea por el centro casi a diario",
+    "cita": "Lindo para la ciudad, ojalá la mantengan limpia."
+   },
+   {
+    "id": "c295",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Un período de prueba le parece razonable",
+    "cita": "Tres meses de prueba está bien, después vemos."
+   },
+   {
+    "id": "c296",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c297",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "La ventana de carga y la prueba lo alivian",
+    "cita": "Con horario de carga a la mañana es otra cosa. A ver cómo funciona la prueba."
+   },
+   {
+    "id": "c298",
+    "postura": 1,
+    "afectacion": "positiva",
+    "accion": "apoya",
+    "motivo": "Le gusta caminar tranquila por el centro",
+    "cita": "Me encanta caminar por Córdoba, así sin autos voy más tranquila."
+   },
+   {
+    "id": "c299",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "No le cambia la vida diaria",
+    "cita": "Lindo para algunos, supongo."
+   },
+   {
+    "id": "c300",
+    "postura": 0,
+    "afectacion": "neutral",
+    "accion": "indiferente",
+    "motivo": "Prioridad a colectivos en las paralelas",
+    "cita": "Vamos a ver si es cierto que priorizan los colectivos."
+   }
+  ]
+ }
+}
